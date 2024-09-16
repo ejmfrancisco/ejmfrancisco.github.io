@@ -1,2 +1,2 @@
 # ejmfrancisco.github.io
-Ej Caliwag's Github portfolio.
+Tentative portfolio on the making. Meanwhile, visit [My Existing Portfolio](https://ejcaliwag.mydurable.com/ "EJ's Portfolio").
